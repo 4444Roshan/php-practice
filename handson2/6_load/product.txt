@@ -1,0 +1,5 @@
+ProductId,productName,Category,Price,Stock_Qty
+1001,MI 108cm(43 inches)A Series Full Hd smart GoogleTV,Television,25000,15
+1002,Acer 100cm(40 inches)Advanced I Series Full Hd,Television,24000,20
+1003,redmi 80cm(32 inches)F series hd ready smart,Television,14600,12
+1203,Lenovo V15 AMD RyzenAntiglare Thin and light ,laptop,38999,5

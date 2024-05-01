@@ -1,0 +1,11 @@
+Company_Name, Website_URL, email_Address
+Soul Travelling, www.samtour.com, samtour@soul.com
+Reality Tours and Travel, www.realitytour.com, tom@gmail.com
+Pioneer Holidays, www.pinoeer.com, jamesgmail.com                                    
+SOTC Holidays,	www.sotc.in, admin@sotc.com
+Thomas Cook, 	wwwthomas.com,admin@cook.com	
+Club Mahindra Holidays, www.mahindraclub.com, admin@club.com
+Amazing India, www.amazing.com, marry@gmail.com
+Easymytrip,www.easymytrip.com, harry@hotmail.com
+caca,www.caca.com,caca123@gmail.com
+beta,www.beta.com,beta2345@gmail.com
